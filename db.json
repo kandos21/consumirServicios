@@ -1,0 +1,19 @@
+{
+  "users":[
+    {"id": 1,"name": "Luis","username": "luix","email": "luis@gmail.com","image":"https://cuboxti.mx/wp-content/uploads/2020/05/logo-2017.jpg"},
+    {"id": 2,"name": "candido","username": "candidox","email": "candido@gmail.com","image":"https://cuboxti.mx/wp-content/uploads/2020/05/logo-2017.jpg"},
+    {"id": 3,"name": "yohana","username": "ale","email": "Sincere@april.biz","image":"https://cuboxti.mx/wp-content/uploads/2020/05/logo-2017.jpg"},
+  ],
+  "posts": [
+    { "id": 1, "title": "reparacion de un computadora","body":"la reparacion de una computadora se debe hacer cada...","userId":"1" },
+    { "id": 2, "title": "mantenimineto de un equipo de computo","body":"El mantenimiento se debe de realizar...","userId":"2" },
+    { "id": 3, "title": "diseño de una pagina web","body":"un sitio web es una ...","userId":"3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
